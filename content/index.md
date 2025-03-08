@@ -6,12 +6,10 @@ layout: wide
 ---
 img-src: /frames-for-your-heart-2d4lAQAlbDA-unsplash.jpg
 ---
-# Nuxt Starter Kits
+# **Latest Crypto Airdrops & Rewards 🚀**
 
 #description
-Welcome to Nuxt Starter Kits the best place to find your starting point for your next **Nuxt** project. May it be a: landing page, SaaS, portfolio... we have you covered.
-
-Happy shipping, sincerely yours [@mark :icon{name="tabler:sailboat-2"}](https://x.com/mark_bruderer)
+Never miss a crypto airdrop again! Get instant alerts for the most promising token drops and rewards.
 ::
 
 ::search
